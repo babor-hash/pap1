@@ -1,0 +1,21 @@
+body{
+	background-color: blue;
+	background-position: center;
+
+}
+p{
+	border-color: red;
+	background-color: green;
+	border: 50px;
+	border-style: dotted;
+}
+h1{
+	font-size: 100px;
+	float: center;
+	color:yellow;
+	position: relative;
+	margin-top:50px;
+	margin-bottom:50px;
+	margin-left:20px;
+	margin-right:20px;
+}
